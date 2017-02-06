@@ -5,3 +5,10 @@ I made this project a while ago, initially without intending to publish it somed
 However, I tried documenting and refactoring it to make it more readable and understandable.
 
 Have fun trying it out and modifying it. I used a lot of canstants you can tweak easily.
+
+Controls:
+a:       pause simulation
+b:       resume simulation
+c:       show stats
+d:       hide stats
+space:   watch best snake and its neural network
